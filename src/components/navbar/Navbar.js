@@ -45,9 +45,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={passsport_ohoto} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                I am a passionate developer, dedicated to building dynamic web applications that enhance user experiences.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
