@@ -20,18 +20,24 @@ const Projects = () => {
           title="Ed Tech platform"
           des="  SeekhLo is the learning platform that gets you Skills for your present(and your future) accessible to both college and
                  school students.You Get all the skills you needed at one place.!"
-                 src={projectOne}
+          src={projectOne}
+          githublink="https://github.com/Akankshaa1302/SeekhLo"
+          projectlink="https://seekh-lo.vercel.app/"
         />
         <ProjectsCard
           title="Speech Recognition react"
           des="  Designed a Speech to Text Converter using reactjs and utilized the npm packages. It has Copy to Clipborad functionality i.e. the converted text can be copt to clipboard"
           src={projectTwo}
+          githublink="https://github.com/Akankshaa1302/speech-recognition"
+          projectlink="https://speech-recognition-red.vercel.app/"
         />
         <ProjectsCard
           title="Job Portal Website"
           des="  Designed a sample Job Portal Website using MERN Stack to simulate the common functions of using a Job Portal. It connect job seekers with employers. It allows job seekers to search and apply for jobs, while employers can post job
                 openings and manage applications!"
           src={projectThree}
+          githublink="https://github.com/Akankshaa1302/Job_Portal_App"
+          //projectlink="https://seekh-lo.vercel.app/"
         />
         
       </div>

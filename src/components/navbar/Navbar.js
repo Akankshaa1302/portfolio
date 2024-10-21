@@ -73,14 +73,9 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
+                  
                   <span className="bannerIcon">
-                    <FaFacebookF />
-                  </span>
-                  <span className="bannerIcon">
-                    <FaTwitter />
-                  </span>
-                  <span className="bannerIcon">
-                    <FaLinkedinIn />
+                    <a href="https://www.linkedin.com/in/akanksha-gupta-a7245322a"><FaLinkedinIn /></a>
                   </span>
                 </div>
               </div>
